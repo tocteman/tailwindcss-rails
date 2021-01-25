@@ -7,6 +7,10 @@ module.exports = {
       fontFamily: {
         sans: ['Source Sans Pro', ...defaultTheme.fontFamily.sans],
       },
+      colors: {
+        gold: {
+          300: '#FFD700'
+      }
     },
   },
   plugins: [
