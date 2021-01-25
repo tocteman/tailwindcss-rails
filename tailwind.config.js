@@ -5,7 +5,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        sans: ['Source Sans Pro', ...defaultTheme.fontFamily.sans],
+        sans: ['SourceSansPro', ...defaultTheme.fontFamily.sans],
       },
       colors: {
         gold: {
